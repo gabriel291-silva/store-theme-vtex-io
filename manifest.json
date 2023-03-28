@@ -1,6 +1,6 @@
 {
   "vendor": "vivensis",
-  "name": "vivensis-app",
+  "name": "vivensis-teste",
   "version": "5.1.0",
   "builders": {
     "styles": "2.x",
